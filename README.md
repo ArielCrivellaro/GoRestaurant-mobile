@@ -3,14 +3,15 @@
 </h1>
 
 <h1 align="center">
-  <img  height= 400 src="src/assets/readme/Screen1.png">
-  <img  height= 400 src="src/assets/readme/Screen2.png">
+  <img  height= 450 src="src/assets/readme/Screen1.png">
+  <img  height= 450 src="src/assets/readme/Screen2.png">
 </h1>
 
 # Indice
 
 - [Sobre](#-sobre)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Utilizando uma Fake API](#-utilizando-uma-fake-api)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 ---
 
