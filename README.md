@@ -11,13 +11,13 @@
 
 - [Sobre](#-sobre)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Utilizando uma Fake API](#-utilizando-uma-fake-api)
+- [Utilizando uma Fake API](#-utilizando-uma-Fake-API)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 ---
 
 ## 🧾Sobre
 
-O Projeto **GoRestaurant** é sistema para delivery de um restaurante de comida Italiana. A versão **Web** tem a função de controlar os pratos disponiveis, adicionar novos pratos e remover caso necessário.
+O Projeto **GoRestaurant** é sistema para delivery de um restaurante de comida Italiana. Na versão **Mobile** é possivel realizar pedidos ao restaurante e favoritas seus pratos favoritos assim como visualizar pedidos anteriores.
 
 Projeto realizado durante o **Bootcamp GoStack** da Rocketseat.
 
@@ -75,7 +75,7 @@ $ yarn ios
 
 ```
 
-### App
+### Versão Web
 
 #### [GoRestaurant - Web](https://github.com/ArielCrivellaro/GoRestaurant-Web.git)
 
